@@ -4,4 +4,4 @@ import math
 import pandas as pd
 import streamlit as st
 
-st.write('#Finetune an OpenAI model online')
+st.write('# Fine-tune an OpenAI model online')
